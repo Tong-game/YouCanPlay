@@ -1,0 +1,6 @@
+{
+  "name": "PlayParty - Online & Offline Multiplayer Games",
+  "description": "Play exciting multiplayer games with friends online in real-time rooms or offline with Pass & Play and smart bots. Featuring Four-in-a-Row, Draw & Guess, Tactical Battleship, and Word Blitz!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
